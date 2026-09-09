@@ -12,6 +12,8 @@
 
 ## 设计资料
 
+![控制原理图](./pcb-layout-top.png)
+
 ![控制原理图](./schematic-control.png)
 
 ![功率级原理图](./schematic-power-stage.png)
