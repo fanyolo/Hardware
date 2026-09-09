@@ -11,7 +11,7 @@
 - 通过正反面布线图与 3D 渲染检查器件方向、机械空间和接口可达性。
 
 嘉立创 EDA Pro、Infineon AURIX TC264D、多电压域供电、最小系统、BGA/LQFP 扇出、PCB Layout
-
+![原理图总览](./tc264d-system-board-3d-top.png)
 ## 文件说明
 
 - `tc264核心板miniv3.1.epro`：紧凑型 TC264 核心板工程。
