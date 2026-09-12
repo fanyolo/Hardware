@@ -29,7 +29,7 @@
 
 ## 文件说明
 
-- `pcb.epro`：v1.2release 完整 EDA 工程。
+- `pcb.epro`： 完整 EDA 工程。
 - `schematic-mcu.png`：TC377 核心、时钟、复位与下载调试。
 - `schematic-power.png`：多路电源、保护、开关与电压检测。
 - `schematic-peripherals.png`：编码器、IMU、摄像头、屏幕、UART 与开关接口。
